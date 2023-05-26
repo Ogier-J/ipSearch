@@ -1,29 +1,29 @@
 # ipSearch
 
 [![version](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/release/python-3113/)
-## Ö÷Òª¹¦ÄÜ
+## ä¸»è¦åŠŸèƒ½
 
-ÊäÈëIPÍ¨¹ıqqwry.dat½âÎöÊä³öIPµÄ³ÇÊĞ£¬ÔËÓªÉÌ
+è¾“å…¥IPé€šè¿‡qqwry.datè§£æè¾“å‡ºIPçš„åŸå¸‚ï¼Œè¿è¥å•†
 
-## ÔËĞĞ»·¾³
+## è¿è¡Œç¯å¢ƒ
 
 - [Python 3](https://www.python.org/)
 
-## µÚÈı·½¿â
+## ç¬¬ä¸‰æ–¹åº“
 
 - [pandas](https://pandas.pydata.org/)
 - [qqwry-py3](https://github.com/animalize/qqwry-python3)
-- [NumPy](https://numpy.org/)
+- [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
 
-°²×°£º
+å®‰è£…ï¼š
 ```sh
 pip install -r requirements.txt
 ```
 
-## Ê¹ÓÃ½Ì³Ì
+## ä½¿ç”¨æ•™ç¨‹
 
-- 1.½«IPÊäÈëµ½input.xlsxÖĞ£¨input.xlsxµÚÒ»ÁĞÎª×Ö¶ÎÃû£ºIP£©
-- 2.ÔËĞĞipSearch.py
-- 3.³ÌĞòÊä³öoutput.xlsx
+- 1.å°†IPè¾“å…¥åˆ°input.xlsxä¸­ï¼ˆinput.xlsxç¬¬ä¸€åˆ—ä¸ºå­—æ®µåï¼šIPï¼‰
+- 2.è¿è¡ŒipSearch.py
+- 3.ç¨‹åºè¾“å‡ºoutput.xlsx
 
 
